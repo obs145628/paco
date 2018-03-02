@@ -1,0 +1,5 @@
+MAP = 4 * 3
+...G
+.W.H
+S...
+PROBA_ACTION_VALID = 0.8
